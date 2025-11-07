@@ -1,8 +1,13 @@
-# Hi there 👋, I’m Davide!  
+# Hey there 👋, I’m Davide!  
 
 **Java developer | DevOps & AI explorer | Amateur chef**  
 
- I’m a software engineer who thrives on learning and turning new ideas into reality. When I step away from the keyboard, you’ll often find me in the kitchen experimenting with flavors, aiming for that perfect “wow” moment when someone tastes my creations. And if I’m not cooking or coding, I’m usually immersed in a board, card or story driven video-game (modding Skyrim for the 300th time also) or just chilling with my girlfriend and friends . 
+ I’m a software engineer who loves turning ideas into real things that actually work (and hopefully look good doing it). I’m into automation, clean architecture, and discovering new ways to make life a little smoother.
+When I step away from the keyboard, you’ll often find me in the kitchen experimenting with flavors (it's the italian genes), chasing that perfect “wow” bite. I also have a soft spot for story-driven games, board game nights with friends, and, yes… modding Skyrim for the 300th time (and breaking it again). Travel is another big part of my story, be it solo trips or group adventures across countries, i love getting immersed in different cultures and meeting cool people. 
+
+💡 I love building things that make life easier — whether it’s automating small workflows, simplifying complex systems, or creating an app to help someone get through their day a little better.
+
+👹 Always handle chaos with a smile!
 
 ---
 
