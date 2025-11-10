@@ -5,7 +5,7 @@
  I’m a software engineer who loves turning ideas into real things that actually work (and hopefully look good doing it). I’m into automation, clean architecture, and discovering new ways to make life a little smoother.
 When I step away from the keyboard, you’ll often find me in the kitchen experimenting with flavors (it's the italian genes), chasing that perfect “wow” bite. I also have a soft spot for story-driven games, board game nights with friends, and, yes… modding Skyrim for the 300th time (and breaking it again). Travel is another big part of my story, be it solo trips or group adventures across countries, i love getting immersed in different cultures and meeting cool people. 
 
-💡 I love building things that make life easier — whether it’s automating small workflows, simplifying complex systems, or creating an app to help someone get through their day a little better.
+💡 I love building things that make life easier,  whether it’s automating small workflows, simplifying complex systems, or creating an app to help someone get through their day a little better.
 
 👹 Always handle chaos with a smile!
 
@@ -32,7 +32,8 @@ When I step away from the keyboard, you’ll often find me in the kitchen experi
 
 
 - Experimenting with new DevOps pipelines  
-- Testing AI models  
+- Testing AI models
+- Online Tutoring  
 - Endless Skyrim mod tweaks ⚔️  
 
 ---
@@ -58,7 +59,7 @@ I love connecting with fellow developers, gamers, and curious minds. Whether it�
 
 <p align="center">
   <figure>
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="500"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lraTk2M2J0MXZ6dzAwdXBreXQ3N2dudG8zczNpN3dvNGd5OHJsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqCd3OEQdXNdIME/giphy.gif" width="500"/>
     <figcaption></figcaption>
   </figure>
 </p>
