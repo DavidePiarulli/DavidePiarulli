@@ -3,7 +3,7 @@
 **Java developer | DevOps & AI explorer | Amateur chef**  
 
  I’m a software engineer who loves turning ideas into real things that actually work (and hopefully look good doing it). I’m into automation, clean architecture, and discovering new ways to make life a little smoother.
-When I step away from the keyboard, you’ll often find me in the kitchen experimenting with flavors (it's the italian genes), chasing that perfect “wow” bite. I also have a soft spot for story-driven games, board game nights with friends, and, yes… modding Skyrim for the 300th time (and breaking it again). Travel is another big part of my story, be it solo trips or group adventures across countries, i love getting immersed in different cultures and meeting cool people. 
+When I step away from the keyboard, you’ll often find me in the kitchen experimenting with flavors (it's the italian genes), chasing that perfect “wow” bite. I also have a soft spot for story-driven video-games, board game nights with friends, and, yes… modding Skyrim for the 300th time (and breaking it again). Travel is another big part of my story, be it solo trips or group adventures across countries, i love getting immersed in different cultures and meeting cool people. 
 
 💡 I love building things that make life easier,  whether it’s automating small workflows, simplifying complex systems, or creating an app to help someone get through their day a little better.
 
@@ -44,9 +44,8 @@ When I step away from the keyboard, you’ll often find me in the kitchen experi
 A mobile app built with **React** to streamline daily tasks in the gastronomy business:  
 - Track tips, shifts, and schedules  
 - Simplify reporting and daily operations  
-- Make life a bit easier for busy gastro workers  
-
-*Playful goal:* Help my girlfriend survive the chaos of her bar while I secretly play around with the backend 😏  
+- Make life a bit easier for busy gastro workers
+- Help my girlfriend survive the chaos of her bar while I secretly play around with the backend 😏  
 
 ---
 
